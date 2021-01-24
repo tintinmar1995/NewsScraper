@@ -1,0 +1,82 @@
+{
+  "frinfo": {
+    "rss": "https://www.francetvinfo.fr/titres.rss",
+    "link": "https://www.francetvinfo.fr"
+  },
+  "figaro": {
+    "link": "https://www.lefigaro.fr/",
+    "rss" : "https://www.lefigaro.fr/rss/figaro_actualites.xml"
+  },
+  "lemonde": {
+    "rss": "https://www.lemonde.fr/les-decodeurs/rss_full.xml",
+    "link": "https://www.lemonde.fr/"
+  },
+  "courrier": {
+    "rss": "https://www.courrierinternational.com/feed/all/rss.xml",
+    "link": "https://www.courrierinternational.com"
+  },
+  "lemonde_diplo": {
+    "link": "https://www.lemonde.fr/",
+    "rss": "https://www.lemonde.fr/geopolitique/rss_full.xml"
+  },
+  "telerama": {
+    "link": "https://www.telerama.fr",
+    "rss": "https://www.telerama.fr/rss/cinema.xml"
+  },
+  "cineserie": {
+    "rss": "https://www.cineserie.com/feed/",
+    "link": "https://www.cineserie.com"
+  },
+  "actucine": {
+    "rss": "http://www.actucine.com/feed",
+    "link": "http://www.actucine.com"
+  },
+  "libecine": {
+    "rss": "https://www.liberation.fr/rss/58/",
+    "link": "https://www.liberation.fr"
+  },
+  "lemonde_cine": {
+    "link": "https://www.lemonde.fr/",
+    "rss": "https://www.lemonde.fr/cinema/rss_full.xml"
+  },
+  "generations": {
+    "link": "https://generations.fr/",
+    "rss": "http://feeds.feedburner.com/generations/news"
+  },
+  "eurosport": {
+    "rss": "https://www.eurosport.fr/rss.xml",
+    "link": "https://www.eurosport.fr"
+  },
+  "maxifoot": {
+    "rss": "http://rss.maxifoot.com/football-general.xml",
+    "link": "http://rss.maxifoot.com/football-general.xml"
+  },
+  "butfootballclub": {
+    "rss": "https://www.butfootballclub.fr/asse?view=rss",
+    "link": "https://www.butfootballclub.fr/"
+  },
+  "lebigdata": {
+    "rss": "https://www.lebigdata.fr/feed",
+    "link": "https://www.lebigdata.fr/"
+  },
+  "frandroid": {
+    "link": "https://www.frandroid.com/feed",
+    "rss": "https://www.frandroid.com/feed"
+  },
+  "nextpit": {
+    "link": "https://www.nextpit.fr/",
+    "rss": "https://www.nextpit.fr/feed/main.xml"
+  },
+  "phonandroid": {
+    "rss": "https://www.phonandroid.com/feed",
+    "link": "https://www.phonandroid.com"
+  },
+  "cyberguerre": {
+    "rss": "https://cyberguerre.numerama.com/feed/",
+    "link": "https://cyberguerre.numerama.com"
+  },
+  "usine-digitale": {
+    "rss": "https://www.usine-digitale.fr/cybersecurite/rss",
+    "link": "https://www.usine-digitale.fr/cybersecurite"
+  }
+}
